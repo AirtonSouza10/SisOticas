@@ -1,0 +1,58 @@
+body {
+        margin: 0px;
+        background-color: #B0C4DE;
+		}
+.container {
+        width: 100vw;
+        height: 100vh;
+        background: #B0C4DE;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center
+   			 }
+.box {
+        width: 35%;
+        height: 60%;
+        background: #fff;
+     }
+.topo{
+		background: #2F4F4F;
+		padding: 5px;
+}
+.col-sm-10{
+		padding-top: 15px;
+		font-size: 18px; 
+
+}
+
+.container .box .topo .row .centro p{
+		color: white;
+
+		font-family: times, arial;
+}
+.corpo{
+	background: white;
+	padding: 20px;
+	text-align: center;
+	font-size: 25px;
+	font-family: times,arial;
+
+}
+.col-md-12{
+	margin: 10px 10px 10px 05px;
+}
+
+.ou{
+    font-family: times,arial;
+    font-size: 16px;
+}
+
+a:link 
+{ 
+text-decoration:none; 
+} 
+
+{
+    text-align: center;
+}   
